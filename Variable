@@ -1,0 +1,21 @@
+
+// se programme est Basique il permet d'afficher un missage à l'errant
+
+
+
+#include "stdio.h"
+#include "Stdlin.h"
+
+
+
+Int main ()
+
+
+(
+
+     Printf ("hello worlde/n");
+     
+     Return 0;
+)
+
+     
