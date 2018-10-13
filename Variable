@@ -1,0 +1,28 @@
+
+//se programme nous permet de declarer des varibles et des comstantes et d afficher leure valeure
+// et d introduire au compilateure des variable (qui est age) et de l afficher
+
+
+
+#include "studio.h"
+
+#include "stdlib.h"
+
+Int main ()
+
+Int valeure;
+Valeure= 6
+
+
+const double valeur2;
+Valeur2=8,50
+
+Printf ("la valeur de la variable est %d et cele de la comstante est %f /n/n",valeure,valeur2);
+
+
+Double age=0; // enicialiser la variable
+
+scanef ("donnez moi une variable %f/n", &age);  //introduces la variable
+
+Printf ("la valeure de l age est %f/n", age);  //afficher la variable
+
